@@ -12,6 +12,7 @@ The repository is organized as follows:
 - `assignment3.ipynb`: Python script for Assignment 3.
 - `assignment4.ipynb`: Python script for Assignment 4.
 - `assignment5.ipynb`: Python script for Assignment 5.
+- `assignment6.ipynb`: Python script for Assignment 6.
 
 ## Requirements
 
